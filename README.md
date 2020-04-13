@@ -6,6 +6,9 @@ Infinity Maze is a Virtual Reality game built using Unity and C#. The game takes
 
 ## Contributors
 [Safiyah Lakhany](https://github.com/safiyahlakhany)
+
 [Krista Ghazaleh](https://github.com/ellejen)
+
 [Faiza Azizan](https://github.com/izazizan)
+
 [Melanie Hennessee](https://github.com/melh23)
